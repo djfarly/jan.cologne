@@ -16,7 +16,7 @@ export default function Home() {
         {/* <h1 className="font-display transition-all text-5xl uppercase text-balance [--fv-wght:700]">
           Jan Willem Henckel
         </h1> */}
-        <p className="font-display text-base sm:text-lg lg:text-4xl flex flex-wrap items-baseline gap-y-2 gap-x-[0.5ch]">
+        <p className="font-display text-base sm:text-lg lg:text-4xl flex flex-wrap items-baseline gap-y-2 gap-x-[0.5ch] select-none">
           <span>
             Hej, I&apos;m{" "}
             <span className="[--fv-wdth:120] [--fv-wght:600]">Jan</span> —
