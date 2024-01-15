@@ -1,5 +1,4 @@
 import {
-  Braces,
   Building2,
   Code2,
   KeyboardMusic,
